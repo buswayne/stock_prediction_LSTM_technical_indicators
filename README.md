@@ -14,3 +14,4 @@ For better results I suggest to:
 3. Again, depending on the state of the market, you should properly choose also the number of past days to look at and how far in the future you want to predict. Common sense says that the further you want to predict, the worse the prediction will be and it is valid also in this case.
 
 ![1 day ahead](1day_pred.png)
+![3 days ahead](3days_pred.png)
